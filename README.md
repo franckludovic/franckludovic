@@ -1,6 +1,6 @@
-# Franck Ludovic
+# Tankeu Ndosse Franck Ludovic
 
-I am a Software Engineer based in Cameroon with a dual background in Computer Science and Biology. 
+I am a Full-Stack Engineer based in Cameroon with a dual background in Computer Science and Biology. 
 
 While I have built and deployed scalable full-stack and mobile applications over the last two years, my core focus and passion lie in **Bioinformatics**. I am deeply interested in applying Machine Learning and Artificial Intelligence to model biological systems and build optimized, computational solutions.
 

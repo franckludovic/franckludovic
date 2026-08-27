@@ -1,19 +1,19 @@
-# Tankeu Ndosse Franck Ludovic
+# Hi, I'm Tankeu Ndosse Franck Ludovic 👋
 
-I am a Full-Stack Engineer based in Cameroon with a dual background in Computer Science and Biology. 
+I'm a Full-Stack Engineer based in Cameroon, and my journey is a bit unique: I actually have a background in both **Computer Science** and **Biology**. 
 
-While I have built and deployed scalable full-stack and mobile applications over the last two years, my core focus and passion lie in **Bioinformatics**. I am deeply interested in applying Machine Learning and Artificial Intelligence to model biological systems and build optimized, computational solutions.
+While I have years of experience building full-stack web and mobile applications, my absolute biggest passion is **Bioinformatics**. I am deeply interested in the intersection of life sciences and technology—specifically applying Machine Learning and Artificial Intelligence to model biological systems and build optimized, computational solutions for biology. 
 
-### Current Focus
-- Developing an ML-driven bioinformatics project to analyze biological data.
-- Preparing to begin my Master's in Computer Science.
-- Actively seeking remote software engineering roles or internships.
+### 🧬 What I'm currently up to:
+- 🔬 Kicking off a new Bioinformatics project that leverages Machine Learning to analyze and solve biological problems.
+- 🎓 Wrapping up my Computer Science engineering program and preparing to start my Master's.
+- 💻 Actively looking for remote software engineering roles or internships where I can write great code and contribute to a global team.
 
-### Technical Stack
-- **Data & ML:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, Polars
-- **Frontend & Mobile:** React, Next.js, Flutter, React Native, JavaScript
-- **Backend & DB:** FastAPI, Django, PostgreSQL, Supabase, SQL
+### 🛠️ The tools I work with:
+- **AI & Data Science:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, Polars
+- **Web & Mobile:** React, Next.js, Flutter, React Native, JavaScript
+- **Backend & Databases:** FastAPI, Django, PostgreSQL, Supabase, SQL
 
-### Contact
-- [LinkedIn Profile](https://www.linkedin.com/in/tankeu-ndosse-franck-809a91289)
+### 📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/tankeu-ndosse-franck-809a91289)
 - Email: tankeundossefranck@gmail.com
